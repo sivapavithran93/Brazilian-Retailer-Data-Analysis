@@ -82,25 +82,25 @@ The products.csv contains ins following features:
 
 Insights and Recommendations :
 
-In the analysis of Brazil's e-commerce target, it's observed that Tuesdays, Mondays, and Wednesdays have a relatively higher number of orders. There is an increasing trend in orders, which sustained throughout 2018. There was a slight fall in October 2017 followed by a significant hike in November 2017, and again a fall in December 2017 and January 2018.
+  - In the analysis of Brazil's e-commerce target, it's observed that Tuesdays, Mondays, and Wednesdays have a relatively higher number of orders. There is an increasing trend in orders, which sustained throughout 2018. There was a slight fall in October 2017 followed by a significant hike in November 2017, and again a fall in December 2017 and January 2018.
 
-A significant increase in orders and revenue, 815% and 707% respectively, was seen from January 2017 to January 2018. However, the growth rate for July and August in 2017 and 2018 was relatively very low. The highest growing sale months compared to the previous month were February 2017, March 2017, and November 2017.
+  - A significant increase in orders and revenue, 815% and 707% respectively, was seen from January 2017 to January 2018. However, the growth rate for July and August in 2017 and 2018 was relatively very low. The highest growing sale months compared to the previous month were February 2017, March 2017, and November 2017.
 
-In the products data, a total of 32951 different products are available at Target across 73 different product categories. Health and beauty, watches, bed table bath, sport leisure, computer accessories, furniture decoration, housewares, and automotive are some of the top-selling product categories. Health and beauty products are top-selling with the highest number of orders.
+  - In the products data, a total of 32951 different products are available at Target across 73 different product categories. Health and beauty, watches, bed table bath, sport leisure, computer accessories, furniture decoration, housewares, and automotive are some of the top-selling product categories. Health and beauty products are top-selling with the highest number of orders.
 
-PCs and musical instruments categories have a relatively low number of products but contribute significantly to revenue. Categories with the highest average product prices are PCs, house pastels oven and cafe, agro industry and commerce, musical instruments, and kitchen portable and food coach. 61% of orders fall within the price range of 10-100, and 33% are in the 101-500 price range.
+  - PCs and musical instruments categories have a relatively low number of products but contribute significantly to revenue. Categories with the highest average product prices are PCs, house pastels oven and cafe, agro industry and commerce, musical instruments, and kitchen portable and food coach. 61% of orders fall within the price range of 10-100, and 33% are in the 101-500 price range.
 
-PCs/electronics, furniture products, kitchen service area dinner and garden equipment, industry commerce and business, agro-industrial commercial products, bags accessories, musical instruments, and construction tools illumination are some product categories with high average freight values.
+  - PCs/electronics, furniture products, kitchen service area dinner and garden equipment, industry commerce and business, agro-industrial commercial products, bags accessories, musical instruments, and construction tools illumination are some product categories with high average freight values.
 
-In terms of delivery time, the average time for approving the order by the seller is 0.26 days, with a median time of 0, which means within a day. The average time taken by a carrier to start the delivery is 2.5 days, and the average time taken to complete delivery is 12 days, with a median of 10 days. The estimated average delivery time is 23 days. There is a positive correlation between freight value and delivery time.
+  - In terms of delivery time, the average time for approving the order by the seller is 0.26 days, with a median time of 0, which means within a day. The average time taken by a carrier to start the delivery is 2.5 days, and the average time taken to complete delivery is 12 days, with a median of 10 days. The estimated average delivery time is 23 days. There is a positive correlation between freight value and delivery time.
 
-States such as São Paulo, Paraná, Minas Gerais, Distrito Federal, Santa Catarina, and Rio de Janeiro have faster delivery times. On the other hand, Alagoas, Amazonas, Amapá, Pará, and Roraima have relatively slower delivery times.
+  - States such as São Paulo, Paraná, Minas Gerais, Distrito Federal, Santa Catarina, and Rio de Janeiro have faster delivery times. On the other hand, Alagoas, Amazonas, Amapá, Pará, and Roraima have relatively slower delivery times.
 
-In terms of region and state-wise analysis, São Paulo, Rio de Janeiro, Minas Gerais, Rio Grande do Sul, and Paraná are the top 5 states with the highest number of orders and revenue. More than 80% of orders and 90% of revenue are coming from the south, southeast, and northeast regions of Brazil.
+  - In terms of region and state-wise analysis, São Paulo, Rio de Janeiro, Minas Gerais, Rio Grande do Sul, and Paraná are the top 5 states with the highest number of orders and revenue. More than 80% of orders and 90% of revenue are coming from the south, southeast, and northeast regions of Brazil.
 
-Based on the distribution and statistical analysis, it's observed that the average delivery time is 12 days, which should be reduced to at least half due to high competition in the e-commerce market. To achieve this, the average time for the carrier to start delivery (2.5 days) and the order approval time (0.26 days) should be optimized to as low as possible.
+  - Based on the distribution and statistical analysis, it's observed that the average delivery time is 12 days, which should be reduced to at least half due to high competition in the e-commerce market. To achieve this, the average time for the carrier to start delivery (2.5 days) and the order approval time (0.26 days) should be optimized to as low as possible.
 
-It was also recommended to increase the network in the north of Brazil to increase the customer base. Introducing necessary products for survival, camping, and adventure can help increase revenue and orders from the northern region. Additionally, offering discounts on slower moving products may help to boost sales during low months such as October and January.
+  - It was also recommended to increase the network in the north of Brazil to increase the customer base. Introducing necessary products for survival, camping, and adventure can help increase revenue and orders from the northern region. Additionally, offering discounts on slower moving products may help to boost sales during low months such as October and January.
 
 Please remember the following points:
 
