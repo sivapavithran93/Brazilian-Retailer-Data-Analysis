@@ -11,6 +11,7 @@ This business case has information on 100k orders from 2016 to 2018. Its feature
 - You can access the complete project in PDF format here: [Report](https://github.com/sivapavithran93/Brazilian-Retailer-Data-Analysis/blob/main/Brazilian%20Retailer%20Case%20Study.pdf).
 
 📚 **About the Data**
+
 Data is available in 8 CSV files:
 - customers.csv
 - geolocation.csv
